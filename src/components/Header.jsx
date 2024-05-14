@@ -10,7 +10,7 @@ function Header() {
         <ul className="right">
           <li>
             <a
-              href="https://github.com/Alexander814Yakovlev/fortnite-shop"
+              href="https://github.com/Alexander814Yakovlev/food-shop"
               target="blank_"
             >
               <i className="material-icons">code</i>
